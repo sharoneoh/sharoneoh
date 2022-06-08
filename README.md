@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @sharoneoh
+- 👀 I’m interested in coding, nature, and reading
+- 🌱 I’m currently learning computer science at the college level
+- 💞️ I’m looking to collaborate on coding projects
+- 📫 How to reach me: sharoneoh@gmail.com
